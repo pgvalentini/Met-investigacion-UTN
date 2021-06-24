@@ -1,0 +1,5 @@
+import pandas as pd 
+
+df=pd.read_csv("C:/Users/Ryzen 7 3700X/Downloads/challenge1_train.csv")
+
+print(df.head())
